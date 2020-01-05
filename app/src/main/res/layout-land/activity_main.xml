@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="main"
+            type="com.cis.xylophone.MainActivity" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000"
+        android:orientation="horizontal"
+        tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/do1"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/do1"
+            android:text="@string/do1"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/re"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/re"
+            android:text="@string/re"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/mi"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/mi"
+            android:text="@string/mi"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/pa"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/pa"
+            android:text="@string/pa"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/sol"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:background="@drawable/sol"
+            android:text="@string/sol"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/ra"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/ra"
+            android:text="@string/ra"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/si"
+            android:layout_marginTop="35dp"
+            android:layout_marginBottom="35dp"
+            android:background="@drawable/si"
+            android:text="@string/si"
+            style="@style/buttonStyle"/>
+
+        <Button
+            android:id="@+id/do2"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/do1"
+            android:text="@string/do2"
+            style="@style/buttonStyle"/>
+
+    </LinearLayout>
+</layout>

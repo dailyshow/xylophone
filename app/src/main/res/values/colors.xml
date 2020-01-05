@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- 실로폰 색상 -->
+    <color name="do_red">#EC3131</color>
+    <color name="re_orange">#EC8231</color>
+    <color name="mi_yellow">#ECC331</color>
+    <color name="pa_green">#31EC3A</color>
+    <color name="sol_dark_blue">#3144EC</color>
+    <color name="ra_blue">#318BEC</color>
+    <color name="si_purple">#9E31EC</color>
+    <color name="textWhiteColor">#fff</color>
+</resources>

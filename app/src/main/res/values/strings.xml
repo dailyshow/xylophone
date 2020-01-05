@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mini xylophone</string>
+    <string name="do1">C</string>
+    <string name="re">D</string>
+    <string name="mi">E</string>
+    <string name="pa">F</string>
+    <string name="sol">G</string>
+    <string name="ra">A</string>
+    <string name="si">B</string>
+    <string name="do2">C</string>
+</resources>

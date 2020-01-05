@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">미니 실로폰</string>
+    <string name="do1">도</string>
+    <string name="re">래</string>
+    <string name="mi">미</string>
+    <string name="pa">파</string>
+    <string name="sol">솔</string>
+    <string name="ra">라</string>
+    <string name="si">시</string>
+    <string name="do2">도</string>
+</resources>
